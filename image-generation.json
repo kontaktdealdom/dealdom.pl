@@ -1,0 +1,99 @@
+{
+  "context": "real estate market",
+  "baseResolution": {
+    "xMin": 400,
+    "xMax": 2000,
+    "yMin": 300,
+    "yMax": 1500
+  },
+  "images": [
+    {
+      "description": "modern elegant apartment or house in Poland, living room with large windows, minimalist interior in bright colors white grey wood, natural light clean lines professional real estate photography",
+      "filename": "hero-property.jpg",
+      "category": "hero",
+      "resolution": {
+        "xMin": 1600,
+        "xMax": 2400,
+        "yMin": 900,
+        "yMax": 1350
+      }
+    },
+    {
+      "description": "professional real estate agent man 30-40 years in suit smiling holding keys or tablet, modern office or elegant interior background, Polish environment professional lighting",
+      "filename": "about-us.jpg",
+      "category": "about",
+      "resolution": {
+        "xMin": 600,
+        "xMax": 1200,
+        "yMin": 450,
+        "yMax": 900
+      }
+    },
+    {
+      "description": "house icon with upward arrow or SOLD sign, simple clean design for real estate selling service",
+      "filename": "service-sell.svg",
+      "category": "icon",
+      "resolution": {
+        "xMin": 150,
+        "xMax": 300,
+        "yMin": 150,
+        "yMax": 300
+      }
+    },
+    {
+      "description": "magnifying glass over house icon or keys symbol, simple clean design for real estate buying service",
+      "filename": "service-buy.svg",
+      "category": "icon",
+      "resolution": {
+        "xMin": 150,
+        "xMax": 300,
+        "yMin": 150,
+        "yMax": 300
+      }
+    },
+    {
+      "description": "calculator icon or chart graph with house symbol, simple clean design for real estate valuation service",
+      "filename": "service-valuation.svg",
+      "category": "icon",
+      "resolution": {
+        "xMin": 150,
+        "xMax": 300,
+        "yMin": 150,
+        "yMax": 300
+      }
+    },
+    {
+      "description": "two people talking icon or lightbulb with house symbol, simple clean design for real estate consulting service",
+      "filename": "service-consulting.svg",
+      "category": "icon",
+      "resolution": {
+        "xMin": 150,
+        "xMax": 300,
+        "yMin": 150,
+        "yMax": 300
+      }
+    },
+    {
+      "description": "modern real estate office in Poland, clean minimalist interior with desks computers maybe Poland map on wall, professional friendly environment",
+      "filename": "contact-office.jpg",
+      "category": "contact",
+      "resolution": {
+        "xMin": 500,
+        "xMax": 900,
+        "yMin": 300,
+        "yMax": 600
+      }
+    },
+    {
+      "description": "simple logo with letters DD DealDom or stylized house in corporate colors, favicon design",
+      "filename": "favicon.ico",
+      "category": "logo",
+      "resolution": {
+        "xMin": 32,
+        "xMax": 64,
+        "yMin": 32,
+        "yMax": 64
+      }
+    }
+  ]
+}

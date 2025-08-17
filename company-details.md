@@ -1,0 +1,4 @@
+nazwa: LUKAMI ŁUKASZ KIEDROWSKI
+NIP: 6721915342
+TEL: 730212236
+EMAIL: kontakt@dealdom.pl
